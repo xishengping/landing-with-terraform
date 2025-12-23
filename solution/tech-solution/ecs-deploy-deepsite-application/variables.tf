@@ -70,5 +70,6 @@ variable "ecs_instance_password" {
     "AssociationProperty": "ALIYUN::ECS::Instance::Password"
   }
   EOT
+  # default     = ""
 }
 
